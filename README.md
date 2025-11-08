@@ -1,0 +1,2 @@
+# .github
+MagicStack Enterprise LLP
